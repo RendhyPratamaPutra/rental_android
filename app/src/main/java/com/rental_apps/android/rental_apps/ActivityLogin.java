@@ -166,7 +166,7 @@ public class ActivityLogin extends AppCompatActivity implements InitComponent, V
 //                //  pDialog.getProgressHelper().setBarColor(Color.parseColor("#A5DC86"));
 //                pDialog.setMessage("Tidak ada koneksi");
 //                pDialog.show();
-                Toasty.success(mContext,"Koneksi Tidak ada",Toast.LENGTH_LONG).show();
+                Toasty.success(mContext,"Tidak Ada Koneksi",Toast.LENGTH_LONG).show();
 
                 if (pDialog.isShowing())
                     pDialog.dismiss();
