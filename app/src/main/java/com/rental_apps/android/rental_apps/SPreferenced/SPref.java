@@ -28,7 +28,7 @@ public class SPref {
     }
 
     public static String getPASSWORD() {
-        return PASSWORD;
+        return PASWORD;
     }
 
     public static void setPASSWORD(String PASSWORD) {
