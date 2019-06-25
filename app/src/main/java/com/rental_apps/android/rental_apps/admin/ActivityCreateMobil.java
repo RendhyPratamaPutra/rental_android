@@ -48,7 +48,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created By Ujang Wahyu Edited By JRC 2019
  */
 
 public class ActivityCreateMobil extends AppCompatActivity implements InitComponent, View.OnClickListener {
@@ -265,7 +265,7 @@ public class ActivityCreateMobil extends AppCompatActivity implements InitCompon
                 &&!validate.cek(et_warna_mobil)
                 &&!validate.cek(et_plat)) {
 
-                return true;
+            return true;
         } else{ return false; }
     }
 
