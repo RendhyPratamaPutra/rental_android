@@ -1,7 +1,7 @@
 package com.rental_apps.android.rental_apps.SPreferenced;
 
 /**
- * Created by Ujang Wahyu on 04/01/2018.
+ * Created by JRC 2019.
  */
 
 public class SPref {
